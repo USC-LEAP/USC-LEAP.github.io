@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: publications/
 layout: page
 title: Publications of the Laboratory for Exploration and Astronautical Physics
 description: "A list of publications: journal articles, conference proceedings/abstracts, and dissertations."

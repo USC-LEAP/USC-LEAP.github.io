@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: research/
 layout: page
 title: Research Projects
 description: "Research interests: to be filled later."

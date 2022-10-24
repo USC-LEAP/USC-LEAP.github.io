@@ -1,5 +1,5 @@
 ---
-permalink: /group/
+permalink: group/
 layout: page
 title: Group Members
 description: "Group members: a list of current group members and alumni."
