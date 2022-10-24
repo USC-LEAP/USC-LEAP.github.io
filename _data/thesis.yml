@@ -1,0 +1,21 @@
+# Publications - Dissertations
+
+- id: Example2022
+  title: 'Example'
+  # page: 139
+  year: 2022
+  # advisor:
+  # - given: Hong-Dong
+    # given_initial: H. D.
+    # family: Zhang
+    # role: Supervisor
+  author:
+  - given: Jeffery
+    given_initial: J.
+    family: Asher
+    # role: main
+  publisher: University of Southern California
+  city: 'Los Angeles, CA, USA'
+  # source: Postdoctoral Research Report
+  # fulltext: 'doctor2009.pdf'
+  language: english

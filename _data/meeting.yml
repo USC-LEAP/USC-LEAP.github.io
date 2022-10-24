@@ -1,0 +1,27 @@
+# Publications - Conference Proceedings
+
+- title: 'Proceeding Example 1'
+  year: 2022
+  author:
+  - given: Chen
+    given_initial: C.
+    family: Cui
+  - given: Joseph Wang
+    given_initial: J.
+    family: Wang
+  source: 'Bulletin of the American Physical Society, vol. 2022, p. CO08.00004, APS, 2022.'
+  city: 'Spokane, WA, USA'
+  # fulltext: xiamen2008.pdf
+
+- title: 'Proceeding Example 2'
+  year: 2022
+  author:
+  - given: Chen
+    given_initial: C.
+    family: Cui
+  - given: Joseph Wang
+    given_initial: J.
+    family: Wang
+  source: 'The 37th International Electric Propulsion Conference, pp. IEPC–2022–242, Electric Rocket Propulsion Society, 2022.'
+  city: 'Boston, MA, USA'
+  # fulltext: xiamen2008.pdf
